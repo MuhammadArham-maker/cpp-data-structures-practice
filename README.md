@@ -13,6 +13,8 @@ The programs are separate exercises. They are not parts of one combined applicat
 | `stacks/` | `Stack.cpp` | Array-based and linked-list stacks, balanced brackets, infix-to-postfix conversion, and postfix evaluation |
 | `queues/` | `Queue.cpp` | Circular queues, linked-list queues, stack/queue conversions, queue reversal, and a deque |
 
+Each folder also includes a README with implementation details, compilation instructions and selected video walkthroughs.
+
 ## Compile and run
 
 Compile one file at a time with a C++ compiler. For example:
